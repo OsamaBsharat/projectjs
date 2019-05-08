@@ -1,0 +1,45 @@
+.row
+{
+margin-top:8px;
+width: 100%;
+height: 100vh;/*يعني 100 بالمية من ال veiw hieght*/
+
+}
+.col
+
+{
+float: left;
+width:50%;
+height: 200px;
+}
+#left-col
+{
+    background-color: rgb(0, 255, 255);
+    height: 100vh;
+    width:25%;
+}
+#right-col
+{
+    background-color: blueviolet;
+    width:75%;
+    text-align: center;
+}
+#left-col2
+{
+    background-color:black;
+}
+#right-col2
+{
+    background-color: red;
+}
+.button-style
+{
+    margin-top: 8px;
+    width: 100%;
+    height: 30px;
+}
+.img-style
+{
+    width:80px;
+    height: 80px;
+}
